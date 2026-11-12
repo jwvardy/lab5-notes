@@ -6,3 +6,4 @@
 "rm file.txt" - delete a file
 "ls -la" - list contents including hidden files, in long/detailed format
 "cd ~" - jump straight to your home directory 
+"mkdir new_folder" - creates a new directory 
